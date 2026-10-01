@@ -1,0 +1,14 @@
+package abcd;
+
+public class constructor 
+{
+public constructor()
+{
+	System.out.println("ABCD");
+}
+public static void main(String[]args)
+{
+	constructor tt = new constructor();
+	
+}
+}
