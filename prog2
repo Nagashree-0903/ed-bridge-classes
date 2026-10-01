@@ -1,0 +1,22 @@
+package abcd;
+
+public class Class2 {
+	void add(String s)
+	{
+		System.out.println("String");
+	}
+	void add(int a)
+	{
+		System.out.println("integer");
+	}
+	public static void main(String[]args)
+	{
+		Class2 bb = new Class2();
+		bb.add("Nagashree");
+		bb.add(3);
+				
+
+	}
+		
+
+}
