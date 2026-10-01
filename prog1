@@ -1,0 +1,22 @@
+package abcd;
+
+public class Class1 
+{
+	void m1()
+	{
+		System.out.println("String");
+	}
+	
+	void m2()
+	{
+		System.out.println(2+4);
+	}
+	public static void main(String[]args)
+	{
+		Class1 bb = new Class1();
+		bb.m1();
+		bb.m2();
+	}
+	
+}
+
