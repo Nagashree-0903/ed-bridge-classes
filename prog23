@@ -1,0 +1,13 @@
+package javaproj;
+
+public class Demo {
+
+	public static void main(String[] args) 
+	{
+		String s2 = new String("Heloo");
+		StringBuilder sb = new StringBuilder("Something");
+		sb.append("new");
+		System.out.println(sb);
+	}
+	
+	}
